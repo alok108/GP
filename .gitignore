@@ -1,1 +1,17 @@
+<<<<<<< HEAD
 *.png
+=======
+dist
+.project
+.settings
+*~
+*.diff
+*.patch
+/*.html
+.DS_Store
+dist/.destination.json
+dist/.sizecache.json
+build/.sizecache.json
+node_modules
+bower_components
+>>>>>>> 203569562414304aabec22fd20b0cb17ad34c7ad
